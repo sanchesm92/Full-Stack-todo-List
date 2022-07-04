@@ -38,6 +38,12 @@ A simple Full Stack To-Do List project;
 - install docker and docker-compose
 - run npm start
 
+# Endpoints
+- http://localhost:${endpoint}/
+- Frontend: 3000
+- Backend: 3001
+- Database: 27017
+
 # Any bugs or suggestions?
 Contatct me:
 - https://www.linkedin.com/in/felipesanchesm/
