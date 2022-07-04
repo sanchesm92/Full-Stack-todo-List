@@ -1,0 +1,12 @@
+{
+  "name": "full-stack-mongo-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "(cd src && docker-compose up -d --build)"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

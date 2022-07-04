@@ -1,0 +1,45 @@
+.taskFather {
+  border-bottom: 1px solid black;
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  font-size: x-large;
+  margin-bottom: 5px;
+  padding: 15px;
+}
+.taskFather span {
+  color: black;
+}
+
+.taskFather-dark span {
+  color: black;
+  background-color: gray;
+}
+
+.taskFather-dark {
+  border-bottom: 1px solid black;
+  width: 95%;
+  background-color: gray;
+  display: flex;
+  justify-content: space-between;
+  font-size: x-large;
+  margin-bottom: 5px;
+  padding: 15px;
+}
+.task_btns button {
+  margin-right: 10px;
+  border: none;
+  font-size: x-large;
+}
+.editing {
+  color: red;
+  text-decoration: line-through;
+}
+.emojiBall {
+  font-size: medium;
+}
+
+.task_btns_input {
+  font-size: x-large;
+  color: rgb(7, 7, 66);
+}
